@@ -8,9 +8,10 @@
         <version>2.1.5.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
+
     <groupId>org.taylor</groupId>
     <artifactId>dubbo-boot</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0</version>
     <name>dubbo-boot</name>
     <description>Spring-Boot-Dubbo-Zookeeper</description>
 
@@ -35,7 +36,7 @@
         <dependency>
             <groupId>org.apache.zookeeper</groupId>
             <artifactId>zookeeper</artifactId>
-            <version>3.4.8</version>
+            <version>3.4.14</version>
         </dependency>
         <dependency>
             <groupId>com.101tec</groupId>
